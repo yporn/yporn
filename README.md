@@ -5,7 +5,7 @@
 <p>🤖 I like to code and like to keep learning by myself to become an ever better developer.</p>
 <p>🌿 I am a consistent learner, always eager to explore new things in the world of technology. </p>
 
-# 🔨 Languages and Tools:
+# 🔨 📑 Familiar with:
 <ul>
   <li>
     <strong>Golang</strong>
